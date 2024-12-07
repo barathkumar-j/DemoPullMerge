@@ -1,1 +1,1 @@
-print('Hello Merge')
+print('Hello')
